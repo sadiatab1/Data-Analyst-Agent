@@ -40,8 +40,8 @@ Perfect for:
 
 ### 1️⃣ Clone the Repo  
 ```bash
-git clone https://github.com/your-username/tds-data-analyst-agent.git
-cd tds-data-analyst-agent
+git clone https://github.com/sadiatab1/Data-Analyst-Agent.git
+cd Data-Analyst-Agent
 ```
 
 ### 2️⃣ Install Requirements  - pip install -r requirements.txt
