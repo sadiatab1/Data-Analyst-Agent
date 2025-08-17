@@ -1,42 +1,48 @@
-# ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
-> Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
+# Data Analyst Agent — Modular, Resilient, AI-Powered  
+> Built for clarity, speed, and bulletproof automation using **FastAPI + LangChain + Gemini AI.**  
 > Repository: *Insert your GitHub repo link here*
 
 ---
 
 ## 📌 What Is This?
-Meet **Data Analyst Agent 2.0** — an AI-driven assistant that eliminates tedious data crunching.  
-Upload your dataset + queries, and instantly get:  
+
+Meet your **TDS Data Analyst Agent** — a production-ready assistant that transforms raw data and natural language queries into actionable insights.  
+Designed for reproducibility, modularity, and edge-case resilience.
+
 ✅ Visual reports  
-✅ AI-generated insights  
-✅ Automated workflows  
+✅ AI-generated summaries  
+✅ Robust fallback logic for Gemini API keys  
+✅ Modular handlers for parsing, scraping, dispatching, and plotting  
 
 Perfect for:  
 - Analysts 🧾  
+- Engineers 🛠️  
 - Researchers 🔬  
-- Startups & Businesses 📈  
-- Anyone who loves turning raw data into knowledge  
+- Anyone building reliable data agents  
 
 ---
 
 ## ✨ Key Highlights  
 
-| Feature                  | Why It’s Awesome 🚀 |
-|---------------------------|----------------------|
-| 🤖 AI-Powered Insights    | Uses Google’s Generative AI to “understand” your data |
-| 📊 Rich Visualizations    | Generates plots with **Seaborn & Matplotlib** |
-| 🌍 Web Scraper Mode       | Fetch live data directly from URLs |
-| 📂 Multi-Format Friendly  | Accepts CSV, Excel, JSON, Parquet, or TXT |
-| 🔄 Ask Many at Once       | Batch processing for multiple questions |
-| 🖥️ Simple-to-Use Interface | Beginner friendly, no steep learning curve |
-| ⚡ Super-Fast Execution   | Optimized for speed + real-time feedback |
+| Feature                      | Why It’s Awesome 🚀 |
+|-----------------------------|----------------------|
+| 🔁 Gemini Key Fallback       | Rotates across 10 keys with quota-aware retries |
+| 🧠 LangChain Integration     | Structured LLM orchestration with tool binding |
+| 📊 Visualizations            | Seaborn + Matplotlib for clean plots |
+| 🧼 Modular Architecture      | Handlers for parsing, scraping, dispatching, plotting |
+| 📂 Multi-Format Support      | CSV, Excel, JSON, Parquet, TXT |
+| 🧪 Parametric Testing Ready  | Designed for CI pipelines and rubric validation |
+| ⚡ FastAPI Backend           | High-performance, reloadable server |
 
 ---
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repo  - git clone https://github.com/your-username/data-analyst-agent.git
-cd data-analyst-agent
+### 1️⃣ Clone the Repo  
+```bash
+git clone https://github.com/your-username/tds-data-analyst-agent.git
+cd tds-data-analyst-agent
+```
 
 ### 2️⃣ Install Requirements  - pip install -r requirements.txt
 
