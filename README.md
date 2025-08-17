@@ -6,7 +6,7 @@
 
 ## 📌 What Is This?
 
-Meet your ** Data Analyst Agent** — a production-ready assistant that transforms raw data and natural language queries into actionable insights.  
+Meet your **Data Analyst Agent** — a production-ready assistant that transforms raw data and natural language queries into actionable insights.  
 Designed for reproducibility, modularity, and edge-case resilience.
 
 ✅ Visual reports  
